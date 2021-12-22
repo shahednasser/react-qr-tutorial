@@ -25,8 +25,8 @@ function App() {
       {qrText.length > 0 && <QRCode value={qrText} />}
       <p className='text-muted mt-4'>
         <a href="#">Learn how this works</a> - <a href="https://github.com/shahednasser/react-qr-tutorial">View on GitHub</a>
-        <a href="https://www.buymeacoffee.com/shahednasser" target="_blank" rel="noreferrer">
-          <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" className='buy-coffee mt-3' />
+        <a href="https://www.buymeacoffee.com/shahednasser" target="_blank" rel="noreferrer" className='buy-coffee mt-3'>
+          <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
         </a>
       </p>
       <h4 className='my-3'>Choose the type of QRCode format</h4>
