@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-qr-tutorial/static/css/main.fb9e9be7.css",
-    "main.js": "/react-qr-tutorial/static/js/main.b10853fe.js",
+    "main.css": "/react-qr-tutorial/static/css/main.550cb774.css",
+    "main.js": "/react-qr-tutorial/static/js/main.d84fb02f.js",
     "static/js/787.7189e1aa.chunk.js": "/react-qr-tutorial/static/js/787.7189e1aa.chunk.js",
     "index.html": "/react-qr-tutorial/index.html",
-    "main.fb9e9be7.css.map": "/react-qr-tutorial/static/css/main.fb9e9be7.css.map",
-    "main.b10853fe.js.map": "/react-qr-tutorial/static/js/main.b10853fe.js.map",
+    "main.550cb774.css.map": "/react-qr-tutorial/static/css/main.550cb774.css.map",
+    "main.d84fb02f.js.map": "/react-qr-tutorial/static/js/main.d84fb02f.js.map",
     "787.7189e1aa.chunk.js.map": "/react-qr-tutorial/static/js/787.7189e1aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb9e9be7.css",
-    "static/js/main.b10853fe.js"
+    "static/css/main.550cb774.css",
+    "static/js/main.d84fb02f.js"
   ]
 }
